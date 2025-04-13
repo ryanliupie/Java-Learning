@@ -8,7 +8,7 @@ That data could be a string, array, or an object.
 
 */
 
-public class variables{
+public class Variables {
 
     public static void main(String[] args) {
 
