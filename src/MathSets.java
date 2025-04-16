@@ -15,7 +15,6 @@ public class MathSets {
         result = Math.max(30, 40); // founds the maximum number between values
         result = Math.min(5, 60); // finds the minimum number between values  
         
-        
         System.out.print(result); 
     }
 }
