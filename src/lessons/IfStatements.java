@@ -1,8 +1,3 @@
-// Creator: Ryan Liu 
-// Take user input and determine their age 
-// 04/14/2025 
-
-
 import java.util.Scanner; 
 
 public class IfStatements {
@@ -45,9 +40,6 @@ public class IfStatements {
             else {
                 System.out.print("You've lived a long life, keep going!"); 
             }
-
-        
-        }
-        
+        }        
     }
 }
